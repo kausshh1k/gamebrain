@@ -1,16 +1,3 @@
-# gamebrain
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-08-18 at 10 14 1](https://github.com/kausshh1k/gamebrain/assets/120456820/87f43aa2-b372-4313-b68a-5f6be049ea56)
+![WhatsApp Image 2023-08-18 at 10 14 2](https://github.com/kausshh1k/gamebrain/assets/120456820/7c03fc77-31e8-45b4-a7e9-73a0a30f7b53)
