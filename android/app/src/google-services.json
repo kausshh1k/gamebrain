@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "232612296280",
+    "project_id": "gamebrain-prod",
+    "storage_bucket": "gamebrain-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232612296280:android:e02e54fc1a2cb61757bc2d",
+        "android_client_info": {
+          "package_name": "com.kaushik.gamebrain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232612296280-u4hqmvhikjvhr0pdc4l1badagk9n9skb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kaushik.gamebrain",
+            "certificate_hash": "4cd498a9ce8bbc35e5e97ea675c242911d82fff4"
+          }
+        },
+        {
+          "client_id": "232612296280-6os2ugtfotre4tem80j8heou32tmcol9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoe0o2qpiGPtdQLrs0Yp3QoabIixtPt9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232612296280-6os2ugtfotre4tem80j8heou32tmcol9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
